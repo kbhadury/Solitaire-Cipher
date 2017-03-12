@@ -1,4 +1,4 @@
-# Solitaire-Cipher (coming soon!)
+# Solitaire-Cipher
 
 The [Solitaire cipher](http://aarontoponce.org/wiki/card-ciphers/solitaire) is an encryption scheme devised by Bruce Schneier which relies only on a pack of cards for encryption and decryption.  The idea is that secret agents are less likely to be placed under suspicion for carrying a deck of cards than if they're hiding the Enigma machine under their shirt.  The encryption and decryption algorithms are fairly straightforward; however, the system is rather slow, so I wrote a script in Python to simulate decryption given a starting deck.  
 
